@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/minsu/CarMaker_Workspace/MSC_Agent_v4r6/ros/ros1_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/minsu/CarMaker_Workspace/MSC_Agent_v4r6/ros/ros1_ws/src/cmrosutils/include/**",
+        "/home/minsu/CarMaker_Workspace/MSC_Agent_v4r6/ros/ros1_ws/src/cms_path_planning/include/**",
+        "/home/minsu/catkin_ws/src/global_path_planning/include/**",
+        "/home/minsu/CarMaker_Workspace/MSC_Agent_v4r6/ros/ros1_ws/src/hellocm/include/**",
+        "/home/minsu/CarMaker_Workspace/MSC_Agent_v4r6/ros/ros1_ws/src/hellocm_cmnode/include/**",
+        "/home/minsu/CarMaker_Workspace/MSC_Agent_v4r6/ros/ros1_ws/src/hellocm_msgs/include/**",
+        "/home/minsu/catkin_ws/src/ROS-Time-Varying-Kalman-Filter/include/**",
+        "/home/minsu/CarMaker_Workspace/MSC_Agent_v4r6/ros/ros1_ws/src/vehicle_control/include/**",
+        "/home/minsu/CarMaker_Workspace/MSC_Agent_v4r6/ros/ros1_ws/src/vehicle_info/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
